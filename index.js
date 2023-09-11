@@ -9,6 +9,7 @@ module.exports = {
     "stylelint-scss",
   ],
   rules: {
+    "scss/operator-no-newline-after": null,
     "at-rule-no-unknown": null,
     "color-hex-length": "long",
 
