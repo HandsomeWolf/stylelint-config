@@ -1,6 +1,6 @@
 {
   "name": "@handsomewolf/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stylelint config Preset",
   "keywords": [
     "stylelint",
@@ -17,6 +17,9 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "peerDependencies": {
+    "stylelint": "^15.10.3"
   },
   "dependencies": {
     "stylelint-config-recommended-vue": "^1.5.0",
