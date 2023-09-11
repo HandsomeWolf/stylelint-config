@@ -45,6 +45,7 @@ module.exports = {
     "selector-max-id": 0,
     "selector-no-qualifying-type": true,
     "unit-allowed-list": [
+      "fr",
       "rem",
       "px",
       "%",
