@@ -43,5 +43,23 @@ module.exports = {
     "scss/selector-no-union-class-name": true,
     "selector-max-id": 0,
     "selector-no-qualifying-type": true,
+    "unit-allowed-list": [
+      "rem",
+      "px",
+      "%",
+      "s",
+      "ms",
+      "em",
+      "deg",
+      "vh",
+      "vw",
+      "rpx",
+    ],
+    "unit-no-unknown": [
+      true,
+      {
+        ignoreUnits: ["rpx"],
+      },
+    ],
   },
 };
