@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config",
+  "name": "@handsomewolf/stylelint-config",
   "version": "1.1.1",
   "description": "stylelint config Preset",
   "keywords": [
