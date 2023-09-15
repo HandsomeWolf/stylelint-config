@@ -1,5 +1,5 @@
 {
-  "name": "@handsomewolf/stylelint-config",
+  "name": "stylelint-config",
   "version": "1.1.0",
   "description": "stylelint config Preset",
   "keywords": [
@@ -26,10 +26,10 @@
     "stylelint-config-standard-scss": "^11.0.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.7.0",
     "stylelint-order": "^6.0.3",
-    "stylelint-scss": "^5.1.0"
+    "stylelint-scss": "^5.2.0"
   },
   "devDependencies": {
-    "@handsomewolf/eslint-config": "^0.1.19",
+    "@handsomewolf/eslint-config": "^0.2.1",
     "postcss-html": "^1.5.0",
     "stylelint": "^15.10.3"
   }
